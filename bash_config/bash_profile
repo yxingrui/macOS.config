@@ -1,0 +1,8 @@
+export LSCOLORS=gxfxaxdxcxegedabagacad
+
+alias ls="ls -G"
+alias ll="ls -l"
+alias la="ls -a"
+
+export PS1="\[\e[31;1m\]\w\[\e[0m\]> "
+
