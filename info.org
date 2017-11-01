@@ -1,0 +1,10 @@
+#+TITLE:About macOS.config
+
+* Bash configurations
+** Colorization
+*** Command Prompt
+I modified Command Prompt to show more information of what directory I am in. I also think to prompt user name is not necessary
+since I rarely change to other users. 
+*** Ls colorization
+I like to add more color to the terminal since I can quickly recognize which file I need which I don't.
+ So I made a few changes to the default terminal coloring configuration.   
